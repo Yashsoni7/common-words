@@ -1,0 +1,6 @@
+task/.vscode/
+task/env/
+task/scraper/__pycache__/
+task/task/__pycache__/
+frontend/node_modules/
+
